@@ -1,6 +1,20 @@
 # Resume-Screening
-Resume screening has various applications across industries, helping organizations streamline hiring processes and identify the best candidates efficiently. Here are some key applications:
+Resume screening has various applications across industries, helping organizations streamline hiring processes and identify the best candidates efficiently.
+# Steps to Build:
+1.Import Libraries
 
+2.Import Dataset
+
+3.Data Exploring
+
+4.Data Preprocessing
+
+5.Building the Model
+
+6.Best Model Selection
+
+7.Prediction System
+# Applications
 1. Automated Recruitment Process
 Companies use Applicant Tracking Systems (ATS) to filter resumes based on keywords, skills, and experience, reducing manual work for recruiters.
 
@@ -21,25 +35,16 @@ Advanced resume screening tools can match candidates to multiple positions withi
 
 7. Employee Referral Screening
 Organizations use screening tools to evaluate referred candidates quickly and compare them against external applicants.
-# Steps to Build:
-1.Import Libraries
 
-2.Import Dataset
-
-3.Data Exploring
-
-4.Data Preprocessing
-
-5.Building the Model
-
-6.Best Model Selection
-
-7.Prediction System
 # Requirements:
 Python
+
 Numpy
+
 Pandas
+
 Seaborn
+
 Sklearn
 # Dataset Reference:
 https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset
