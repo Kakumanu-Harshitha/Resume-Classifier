@@ -46,6 +46,8 @@ Pandas
 Seaborn
 
 Sklearn
+# Results:
+# Acurracy:  99.76%
 # Dataset Reference:
 https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset
 # Owner:
